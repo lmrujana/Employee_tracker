@@ -1,0 +1,25 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "## Description This Command Line allows users to inspect and modify a company's employees data base. This app uses Node.js, inquirer.js, console.table and mysql modules, which need to be installed before running the app.",
+  "main": "app.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmrujana/Employee_tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmrujana/Employee_tracker/issues"
+  },
+  "homepage": "https://github.com/lmrujana/Employee_tracker#readme"
+}
